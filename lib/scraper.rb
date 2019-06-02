@@ -1,5 +1,3 @@
-open fixtures/student-site/index.html
-
 require 'nokogiri'
 require 'open-uri'
 require 'pry'
